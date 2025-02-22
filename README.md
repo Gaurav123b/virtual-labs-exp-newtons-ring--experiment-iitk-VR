@@ -21,3 +21,4 @@ The wavelength of sodium light can be determined using the Newton's Ring experim
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | RAHUL PUSHPAKAR | STUDENT	 | MECHANICAL ENGINEERING | RAJKIYA ENGINEERING COLLEGE BANDA	 | rahulpushpker@gmail.com
+2 | GAURAV KUMAR | STUDENT	 | INFORMATION TECHNOLOGY | RAJKIYA ENGINEERING COLLEGE BANDA	 | gaurav182005@gmail.com
